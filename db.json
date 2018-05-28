@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "aa551aa3-fde0-44f2-b8c9-6b301e013316",
+      "email": "uvuvukj",
+      "lastname": "vkv",
+      "firstname": "vhkgvhg"
+    },
+    {
+      "id": "a8f97dbe-a88b-4d24-a5fc-57e03799fdfd",
+      "email": "admin",
+      "lastname": "admin",
+      "firstname": "admin"
+    },
+    {
+      "id": "d61d7ead-bef7-4244-8cbf-1499bcf360a1",
+      "email": "lange",
+      "lastname": "l'ange",
+      "firstname": "Emeric"
+    },
+    {
+      "id": "42b30d8b-3aba-4c06-88e9-9b5ffd8f1799",
+      "email": "wetxdcfvgbhkjnk,",
+      "lastname": "trdhtfjghbj",
+      "firstname": "qzetryctvygbhnj"
+    },
+    {
+      "id": "af37f234-6262-402b-a997-9aed8526f21b",
+      "email": "admin2",
+      "lastname": "admin2",
+      "firstname": "admin"
+    }
+  ],
+  "message": [
+    {
+      "id": "1f106ce7-4eda-4425-b9fd-227929be37a8",
+      "message": "bgdfvfd",
+      "firstname": "lucas "
+    },
+    {
+      "id": "a4cc4a69-e721-4988-ad1d-7e1783aa801e",
+      "message": "donne moi ton corps",
+      "firstname": "Emeric"
+    },
+    {
+      "id": "4ffeb3c2-4a1b-45c9-b65f-504b17c70667",
+      "message": "tiutiui",
+      "firstname": "rtyuiop"
+    },
+    {
+      "id": "0bc0cab0-e5c6-46c9-9f86-1c636897b99e",
+      "message": "efehozecde",
+      "firstname": "rtyuiopaze"
+    },
+    {
+      "id": "5b67f9c2-2be9-462c-bb72-c19e81e9bb56",
+      "message": "fdxgchvbjn",
+      "firstname": "qzetryctvygbhnj"
+    },
+    {
+      "id": "1f4f1886-2a2c-460a-b3be-19c97103439a",
+      "message": "fdxgchvbjn",
+      "firstname": "qzetryctvygbhnj"
+    },
+    {
+      "id": "29cb5bef-1c69-4276-8e06-9bf4da10a64c",
+      "message": "fds",
+      "firstname": "fdvs"
+    }
+  ],
+  "channels": [
+    {
+      "id": "2c12de9b-3aa7-498c-9270-dd893c826c40",
+      "email": "e-mail",
+      "firstname": "First Name"
+    },
+    {
+      "id": "5c9b67e7-ac0c-406d-96ec-691206cc54d3",
+      "email": "vhkgvhg",
+      "firstname": "uvuvukj"
+    },
+    {
+      "id": "8f36077b-c581-4128-ac3a-8a8d20f3975f",
+      "email": "admin",
+      "firstname": "admin"
+    },
+    {
+      "id": "ed5d1e4f-889e-47f9-a427-72a222616c2d",
+      "email": "nous",
+      "firstname": "toi"
+    },
+    {
+      "id": "61b0513c-045a-4b7f-a14f-b32c60c699db",
+      "email": "azertyuio",
+      "firstname": "rtyuiop"
+    },
+    {
+      "id": "607cf836-9b4c-4741-a1d4-4df31e4603d1",
+      "email": "bfiezbcd",
+      "firstname": "rtyuiopaze"
+    },
+    {
+      "id": "bd7f06df-fca2-448e-b3bd-4f85e16407b4",
+      "email": "fdsq",
+      "firstname": "fdvs"
+    },
+    {
+      "id": "278ba3e3-aa22-48e8-9d4d-7cf30618288a",
+      "email": "gfkldszq",
+      "firstname": "dfghj"
+    }
+  ]
+}
